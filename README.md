@@ -10,7 +10,7 @@ Through SQL queries and Python-based visualizations, the goal is to generate val
 ### Proyecto: Colección Seleccionada de Libros sobre SQL
 Una propuesta analítica para startups que desean desarrollar nuevas aplicaciones dirigidas a los amantes de la lectura digital.
 
-# Análisis de Base de Datos: Plataforma de Libros
+### Análisis de Base de Datos: Plataforma de Libros
 Este proyecto tiene como objetivo explorar y analizar una base de datos relacional perteneciente a una startup enfocada en el consumo de libros digitales.
 A través de consultas SQL y visualizaciones desde Python, se busca generar insights valiosos que sirvan como base para definir una propuesta de valor
 sólida orientada a nuevos productos.
