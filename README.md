@@ -1,8 +1,15 @@
 # Project: Curated SQL Book Collection
+<!-- invisible spacing -->
+
 ---
+<!-- invisible spacing -->
+
 An analytical proposal for startups seeking to develop new applications tailored to digital reading enthusiasts.
+<!-- invisible spacing -->
 
 ## Database Analysis: Book Platform
+<!-- invisible spacing -->
+
 This project aims to explore and analyze a relational database belonging to a startup focused on digital book consumption.
 Through SQL queries and Python-based visualizations, the goal is to generate valuable insights that can serve as a foundation for crafting a strong value proposition for new product development.
 
