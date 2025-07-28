@@ -5,7 +5,6 @@ An analytical proposal for startups seeking to develop new applications tailored
 This project aims to explore and analyze a relational database belonging to a startup focused on digital book consumption.
 Through SQL queries and Python-based visualizations, the goal is to generate valuable insights that can serve as a foundation for crafting a strong value proposition for new product development.
 
----
 
 ### Proyecto: Colección Seleccionada de Libros sobre SQL
 Una propuesta analítica para startups que desean desarrollar nuevas aplicaciones dirigidas a los amantes de la lectura digital.
@@ -15,7 +14,6 @@ Este proyecto tiene como objetivo explorar y analizar una base de datos relacion
 A través de consultas SQL y visualizaciones desde Python, se busca generar insights valiosos que sirvan como base para definir una propuesta de valor
 sólida orientada a nuevos productos.
 
----
 
 ## 📌 Objetivos
 
@@ -24,7 +22,6 @@ sólida orientada a nuevos productos.
 - Identificar editoriales y autores destacados.
 - Explorar comportamientos de usuarios activos.
 
----
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -33,7 +30,6 @@ sólida orientada a nuevos productos.
 - Pandas  
 - Jupyter Notebook  
 
----
 
 ## 🧮 Contenido
 
