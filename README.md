@@ -1,7 +1,9 @@
-<h2 style="margin-bottom:0;">Project: Curated SQL Book Collection</h2>
+# 📚 Project: Curated SQL Book Collection
+<!-- bilingual section divider -->
 An analytical proposal for startups seeking to develop new applications tailored to digital reading enthusiasts.
 
-<h2 style="margin-bottom:0;">Database Analysis: Book Platform</h2>
+## 📖 Database Analysis: Book Platform
+<!-- bilingual section divider -->
 This project aims to explore and analyze a relational database belonging to a startup focused on digital book consumption.
 Through SQL queries and Python-based visualizations, the goal is to generate valuable insights that can serve as a foundation for crafting a strong value proposition for new product development.
 
